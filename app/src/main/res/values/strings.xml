@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ContadorIncrementadoDecrementado</string>
+    <string name="app_numero">0</string>
+    <string name="app_aumentar">Aumentar</string>
+    <string name="app_diminuir">Diminuir</string>
+    <string name="app_resetar">Resetar</string>
+    <string name="app_x1">x1</string>
+    <string name="app_x5">x5</string>
+    <string name="app_x10">x10</string>
+</resources>
