@@ -27,7 +27,7 @@ Aplicativo Android desenvolvido em **Kotlin** com **ConstraintLayout**, que impl
 
 ## 🎥 Vídeo Demonstrativo
 O vídeo mostrando o funcionamento do app e o desenvolvimento está no YouTube (não listado):  
-🔗 *Inserir link aqui*
+🔗 link
 
 ---
 
